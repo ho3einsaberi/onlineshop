@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bgp{
+    background-image: url(../src/img/back-school-witch-school-supplies.jpg);
+    background-size: cover;
+    background-position: right;
+    clip-path: circle(68.2% at 56% 33%);
+    background-attachment: fixed;
+}
+
+.bgi{
+    background-image: url(../src/img/login2.jpg);
+    background-size: cover;
+    background-position: right;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+
+}
+.bgi2{
+    background-image: url(../src/img/ign.jpg);
+    background-size: cover;
+    background-position: right;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+
+}
+
+.bgi3{
+    background-image: url(../src/img/lara.webp);
+    background-size: cover;
+    background-position: right;
+   
+
+
+}
